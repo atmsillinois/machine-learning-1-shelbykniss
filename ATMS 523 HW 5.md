@@ -52,4 +52,6 @@ Target :
    ```
   Can you beat the baseline, or the linear regression, or best polynomial model with the best optimized Random Forest Regressor in terms of $R^2$ and root mean square error?
 
+  Completed all HW tasks, but had to reduce the grid search parameters to get it to run in a realistic amount of time...
+
 
